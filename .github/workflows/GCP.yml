@@ -37,7 +37,7 @@ jobs:
     # defina a ENVs
     env:
       # defina o nome do projeto
-      NAME_PROJECT: "ToperCursos"
+      NAME_PROJECT: "topercursos"
       # defina o nome do repositorio existente
       DOC_REPOSITORY: "projetos/"
       # defina a região
