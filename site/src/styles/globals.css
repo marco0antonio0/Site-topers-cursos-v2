@@ -1,0 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@300;400;600&family=Lakki+Reddy&family=Lalezar&family=League+Gothic&family=Lilita+One&family=Londrina+Solid&family=Montserrat:wght@500&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
